@@ -1,2 +1,2 @@
 # Portfolio-Website
- Yaya E Mock Site
+ SCSS & HTML Responsive website design
